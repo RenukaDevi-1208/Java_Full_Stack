@@ -8,5 +8,9 @@ public class Test
 	{
 		return a+b;
 	}
+	public void m1()
+	{
+		System.out.println("It is done by developer");
+	}
 
 }
